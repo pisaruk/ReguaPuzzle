@@ -1,0 +1,262 @@
+Custo Maximo = 8
+		(<AA-BB g=0 id=0 h1=8>)
+[<A-ABB g=1 id=1 h1=7>, <AAB-B g=1 id=2 h1=7>, <-AABB g=2 id=3 h1=6>, <AABB- g=2 id=4 h1=6>]
+		(<AABB- g=2 id=4 h1=6>)
+[]
+		(<-AABB g=2 id=3 h1=6>)
+[]
+		(<AAB-B g=1 id=2 h1=7>)
+[<A-BAB g=3 id=11 h1=5>]
+		(<A-BAB g=3 id=11 h1=5>)
+[<-ABAB g=4 id=12 h1=4>, <AB-AB g=4 id=13 h1=4>]
+		(<AB-AB g=4 id=13 h1=4>)
+[<ABA-B g=5 id=16 h1=5>, <-BAAB g=6 id=17 h1=2>, <ABBA- g=6 id=18 h1=2>]
+		(<ABBA- g=6 id=18 h1=2>)
+[<ABB-A g=7 id=19 h1=2>]
+		(<ABB-A g=7 id=19 h1=2>)
+		(<-BAAB g=6 id=17 h1=2>)
+[<B-AAB g=7 id=21 h1=2>]
+		(<B-AAB g=7 id=21 h1=2>)
+		(<ABA-B g=5 id=16 h1=5>)
+		(<-ABAB g=4 id=12 h1=4>)
+[<BA-AB g=6 id=24 h1=3>]
+		(<BA-AB g=6 id=24 h1=3>)
+		(<A-ABB g=1 id=1 h1=7>)
+[<ABA-B g=3 id=27 h1=5>]
+		(<ABA-B g=3 id=27 h1=5>)
+[<ABAB- g=4 id=29 h1=4>]
+		(<ABAB- g=4 id=29 h1=4>)
+[<AB-BA g=6 id=32 h1=3>]
+		(<AB-BA g=6 id=32 h1=3>)
+Custo Maximo = 9
+		(<AA-BB g=0 id=0 h1=8>)
+[<A-ABB g=1 id=33 h1=7>, <AAB-B g=1 id=34 h1=7>, <-AABB g=2 id=35 h1=6>, <AABB- g=2 id=36 h1=6>]
+		(<AABB- g=2 id=36 h1=6>)
+[]
+		(<-AABB g=2 id=35 h1=6>)
+[]
+		(<AAB-B g=1 id=34 h1=7>)
+[<A-BAB g=3 id=43 h1=5>]
+		(<A-BAB g=3 id=43 h1=5>)
+[<-ABAB g=4 id=44 h1=4>, <AB-AB g=4 id=45 h1=4>]
+		(<AB-AB g=4 id=45 h1=4>)
+[<ABA-B g=5 id=48 h1=5>, <-BAAB g=6 id=49 h1=2>, <ABBA- g=6 id=50 h1=2>]
+		(<ABBA- g=6 id=50 h1=2>)
+[<ABB-A g=7 id=51 h1=2>]
+		(<ABB-A g=7 id=51 h1=2>)
+[<AB-BA g=8 id=53 h1=3>, <A-BBA g=9 id=55 h1=4>]
+		(<A-BBA g=9 id=55 h1=4>)
+		(<AB-BA g=8 id=53 h1=3>)
+		(<-BAAB g=6 id=49 h1=2>)
+[<B-AAB g=7 id=56 h1=2>]
+		(<B-AAB g=7 id=56 h1=2>)
+[<BA-AB g=8 id=59 h1=3>, <BAA-B g=9 id=60 h1=4>]
+		(<BAA-B g=9 id=60 h1=4>)
+		(<BA-AB g=8 id=59 h1=3>)
+		(<ABA-B g=5 id=48 h1=5>)
+		(<-ABAB g=4 id=44 h1=4>)
+[<BA-AB g=6 id=62 h1=3>]
+		(<BA-AB g=6 id=62 h1=3>)
+[<BAA-B g=7 id=64 h1=4>, <BABA- g=8 id=66 h1=1>]
+		(<BABA- g=8 id=66 h1=1>)
+[<BAB-A g=9 id=67 h1=1>]
+		(<BAB-A g=9 id=67 h1=1>)
+		(<BAA-B g=7 id=64 h1=4>)
+		(<A-ABB g=1 id=33 h1=7>)
+[<ABA-B g=3 id=71 h1=5>]
+		(<ABA-B g=3 id=71 h1=5>)
+[<ABAB- g=4 id=73 h1=4>]
+		(<ABAB- g=4 id=73 h1=4>)
+[<AB-BA g=6 id=76 h1=3>]
+		(<AB-BA g=6 id=76 h1=3>)
+[<A-BBA g=7 id=77 h1=4>, <-BABA g=8 id=79 h1=1>]
+		(<-BABA g=8 id=79 h1=1>)
+[<B-ABA g=9 id=81 h1=1>]
+		(<B-ABA g=9 id=81 h1=1>)
+		(<A-BBA g=7 id=77 h1=4>)
+Custo Maximo = 10
+		(<AA-BB g=0 id=0 h1=8>)
+[<A-ABB g=1 id=83 h1=7>, <AAB-B g=1 id=84 h1=7>, <-AABB g=2 id=85 h1=6>, <AABB- g=2 id=86 h1=6>]
+		(<AABB- g=2 id=86 h1=6>)
+[]
+		(<-AABB g=2 id=85 h1=6>)
+[]
+		(<AAB-B g=1 id=84 h1=7>)
+[<A-BAB g=3 id=93 h1=5>]
+		(<A-BAB g=3 id=93 h1=5>)
+[<-ABAB g=4 id=94 h1=4>, <AB-AB g=4 id=95 h1=4>]
+		(<AB-AB g=4 id=95 h1=4>)
+[<ABA-B g=5 id=98 h1=5>, <-BAAB g=6 id=99 h1=2>, <ABBA- g=6 id=100 h1=2>]
+		(<ABBA- g=6 id=100 h1=2>)
+[<ABB-A g=7 id=101 h1=2>]
+		(<ABB-A g=7 id=101 h1=2>)
+[<AB-BA g=8 id=103 h1=3>, <A-BBA g=9 id=105 h1=4>]
+		(<A-BBA g=9 id=105 h1=4>)
+		(<AB-BA g=8 id=103 h1=3>)
+		(<-BAAB g=6 id=99 h1=2>)
+[<B-AAB g=7 id=106 h1=2>]
+		(<B-AAB g=7 id=106 h1=2>)
+[<BA-AB g=8 id=109 h1=3>, <BAA-B g=9 id=110 h1=4>]
+		(<BAA-B g=9 id=110 h1=4>)
+		(<BA-AB g=8 id=109 h1=3>)
+		(<ABA-B g=5 id=98 h1=5>)
+[<ABAB- g=6 id=112 h1=4>]
+		(<ABAB- g=6 id=112 h1=4>)
+[<AB-BA g=8 id=115 h1=3>]
+		(<AB-BA g=8 id=115 h1=3>)
+		(<-ABAB g=4 id=94 h1=4>)
+[<BA-AB g=6 id=117 h1=3>]
+		(<BA-AB g=6 id=117 h1=3>)
+[<BAA-B g=7 id=119 h1=4>, <BABA- g=8 id=121 h1=1>]
+		(<BABA- g=8 id=121 h1=1>)
+[<BAB-A g=9 id=122 h1=1>]
+		(<BAB-A g=9 id=122 h1=1>)
+[<BA-BA g=10 id=124 h1=2>, <B-BAA g=11 id=126 h1=0>]
+		(<B-BAA g=11 id=126 h1=0>)
+		(<BA-BA g=10 id=124 h1=2>)
+		(<BAA-B g=7 id=119 h1=4>)
+		(<A-ABB g=1 id=83 h1=7>)
+[]
+Custo Maximo = 11
+		(<AA-BB g=0 id=0 h1=8>)
+[<A-ABB g=1 id=130 h1=7>, <AAB-B g=1 id=131 h1=7>, <-AABB g=2 id=132 h1=6>, <AABB- g=2 id=133 h1=6>]
+		(<AABB- g=2 id=133 h1=6>)
+[]
+		(<-AABB g=2 id=132 h1=6>)
+[]
+		(<AAB-B g=1 id=131 h1=7>)
+[<A-BAB g=3 id=140 h1=5>]
+		(<A-BAB g=3 id=140 h1=5>)
+[<-ABAB g=4 id=141 h1=4>, <AB-AB g=4 id=142 h1=4>]
+		(<AB-AB g=4 id=142 h1=4>)
+[<ABA-B g=5 id=145 h1=5>, <-BAAB g=6 id=146 h1=2>, <ABBA- g=6 id=147 h1=2>]
+		(<ABBA- g=6 id=147 h1=2>)
+[<ABB-A g=7 id=148 h1=2>]
+		(<ABB-A g=7 id=148 h1=2>)
+[<AB-BA g=8 id=150 h1=3>, <A-BBA g=9 id=152 h1=4>]
+		(<A-BBA g=9 id=152 h1=4>)
+		(<AB-BA g=8 id=150 h1=3>)
+[<A-BBA g=9 id=153 h1=4>, <-BABA g=10 id=155 h1=1>, <ABAB- g=10 id=156 h1=4>]
+		(<ABAB- g=10 id=156 h1=4>)
+		(<-BABA g=10 id=155 h1=1>)
+[<B-ABA g=11 id=157 h1=1>]
+		(<B-ABA g=11 id=157 h1=1>)
+		(<A-BBA g=9 id=153 h1=4>)
+		(<-BAAB g=6 id=146 h1=2>)
+[<B-AAB g=7 id=159 h1=2>]
+		(<B-AAB g=7 id=159 h1=2>)
+[<BA-AB g=8 id=162 h1=3>, <BAA-B g=9 id=163 h1=4>]
+		(<BAA-B g=9 id=163 h1=4>)
+		(<BA-AB g=8 id=162 h1=3>)
+[<BAA-B g=9 id=165 h1=4>, <BABA- g=10 id=167 h1=1>]
+		(<BABA- g=10 id=167 h1=1>)
+[<BAB-A g=11 id=168 h1=1>]
+		(<BAB-A g=11 id=168 h1=1>)
+		(<BAA-B g=9 id=165 h1=4>)
+		(<ABA-B g=5 id=145 h1=5>)
+[<ABAB- g=6 id=171 h1=4>]
+		(<ABAB- g=6 id=171 h1=4>)
+[]
+		(<-ABAB g=4 id=141 h1=4>)
+[]
+		(<A-ABB g=1 id=130 h1=7>)
+[]
+Custo Maximo = 12
+		(<AA-BB g=0 id=0 h1=8>)
+[<A-ABB g=1 id=180 h1=7>, <AAB-B g=1 id=181 h1=7>, <-AABB g=2 id=182 h1=6>, <AABB- g=2 id=183 h1=6>]
+		(<AABB- g=2 id=183 h1=6>)
+[]
+		(<-AABB g=2 id=182 h1=6>)
+[]
+		(<AAB-B g=1 id=181 h1=7>)
+[<A-BAB g=3 id=190 h1=5>]
+		(<A-BAB g=3 id=190 h1=5>)
+[<-ABAB g=4 id=191 h1=4>, <AB-AB g=4 id=192 h1=4>]
+		(<AB-AB g=4 id=192 h1=4>)
+[<ABA-B g=5 id=195 h1=5>, <-BAAB g=6 id=196 h1=2>, <ABBA- g=6 id=197 h1=2>]
+		(<ABBA- g=6 id=197 h1=2>)
+[<ABB-A g=7 id=198 h1=2>]
+		(<ABB-A g=7 id=198 h1=2>)
+[<AB-BA g=8 id=200 h1=3>, <A-BBA g=9 id=202 h1=4>]
+		(<A-BBA g=9 id=202 h1=4>)
+		(<AB-BA g=8 id=200 h1=3>)
+[<A-BBA g=9 id=203 h1=4>, <-BABA g=10 id=205 h1=1>, <ABAB- g=10 id=206 h1=4>]
+		(<ABAB- g=10 id=206 h1=4>)
+		(<-BABA g=10 id=205 h1=1>)
+[<B-ABA g=11 id=207 h1=1>]
+		(<B-ABA g=11 id=207 h1=1>)
+[<BA-BA g=12 id=210 h1=2>, <BBA-A g=13 id=211 h1=0>]
+		(<BBA-A g=13 id=211 h1=0>)
+		(<BA-BA g=12 id=210 h1=2>)
+		(<A-BBA g=9 id=203 h1=4>)
+		(<-BAAB g=6 id=196 h1=2>)
+[<B-AAB g=7 id=212 h1=2>]
+		(<B-AAB g=7 id=212 h1=2>)
+[<BA-AB g=8 id=215 h1=3>, <BAA-B g=9 id=216 h1=4>]
+		(<BAA-B g=9 id=216 h1=4>)
+		(<BA-AB g=8 id=215 h1=3>)
+[<BAA-B g=9 id=218 h1=4>, <BABA- g=10 id=220 h1=1>]
+		(<BABA- g=10 id=220 h1=1>)
+[<BAB-A g=11 id=221 h1=1>]
+		(<BAB-A g=11 id=221 h1=1>)
+[<BA-BA g=12 id=223 h1=2>, <B-BAA g=13 id=225 h1=0>]
+		(<B-BAA g=13 id=225 h1=0>)
+		(<BA-BA g=12 id=223 h1=2>)
+		(<BAA-B g=9 id=218 h1=4>)
+		(<ABA-B g=5 id=195 h1=5>)
+[<ABAB- g=6 id=227 h1=4>]
+		(<ABAB- g=6 id=227 h1=4>)
+[]
+		(<-ABAB g=4 id=191 h1=4>)
+[]
+		(<A-ABB g=1 id=180 h1=7>)
+[]
+Custo Maximo = 13
+		(<AA-BB g=0 id=0 h1=8>)
+[<A-ABB g=1 id=236 h1=7>, <AAB-B g=1 id=237 h1=7>, <-AABB g=2 id=238 h1=6>, <AABB- g=2 id=239 h1=6>]
+		(<AABB- g=2 id=239 h1=6>)
+[]
+		(<-AABB g=2 id=238 h1=6>)
+[]
+		(<AAB-B g=1 id=237 h1=7>)
+[<A-BAB g=3 id=246 h1=5>]
+		(<A-BAB g=3 id=246 h1=5>)
+[<-ABAB g=4 id=247 h1=4>, <AB-AB g=4 id=248 h1=4>]
+		(<AB-AB g=4 id=248 h1=4>)
+[<ABA-B g=5 id=251 h1=5>, <-BAAB g=6 id=252 h1=2>, <ABBA- g=6 id=253 h1=2>]
+		(<ABBA- g=6 id=253 h1=2>)
+[<ABB-A g=7 id=254 h1=2>]
+		(<ABB-A g=7 id=254 h1=2>)
+[<AB-BA g=8 id=256 h1=3>, <A-BBA g=9 id=258 h1=4>]
+		(<A-BBA g=9 id=258 h1=4>)
+[<-ABBA g=10 id=259 h1=3>]
+		(<-ABBA g=10 id=259 h1=3>)
+[<BA-BA g=12 id=263 h1=2>]
+		(<BA-BA g=12 id=263 h1=2>)
+		(<AB-BA g=8 id=256 h1=3>)
+[<-BABA g=10 id=266 h1=1>, <ABAB- g=10 id=267 h1=4>]
+		(<ABAB- g=10 id=267 h1=4>)
+		(<-BABA g=10 id=266 h1=1>)
+[<B-ABA g=11 id=268 h1=1>]
+		(<B-ABA g=11 id=268 h1=1>)
+[<BA-BA g=12 id=271 h1=2>, <BBA-A g=13 id=272 h1=0>]
+		(<BBA-A g=13 id=272 h1=0>)
+Solu��o: 
+<AA-BB g=0 id=0 h1=8>
+<AAB-B g=1 id=237 h1=7>
+<A-BAB g=3 id=246 h1=5>
+<AB-AB g=4 id=248 h1=4>
+<ABBA- g=6 id=253 h1=2>
+<ABB-A g=7 id=254 h1=2>
+<AB-BA g=8 id=256 h1=3>
+<-BABA g=10 id=266 h1=1>
+<B-ABA g=11 id=268 h1=1>
+<BBA-A g=13 id=272 h1=0>
+numero de n�s visitados............98
+numero de n�s gerados..............138
+profundidade da meta...............9
+custo da solucao...................13
+fator de ramifica��o m�dio.........1.4081632653061225
+tamanho da solu��o.................9
+tempo de execucao..................62ms
+repeticoes: 0
